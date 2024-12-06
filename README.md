@@ -18,7 +18,7 @@ Nahida-MD is a WhatsApp bot built using [@whiskeysockets/baileys](https://github
 
 ### Prerequisites
 Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Node.js](https://nodejs.org/) (v18 or higher)
 - [Git](https://git-scm.com/)
 - Termux (for Android users, optional)
 
