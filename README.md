@@ -1,11 +1,11 @@
 # Nahida-MD WhatsApp Bot
 
-## 📋 Description
+## Description
 Nahida-MD is a WhatsApp bot built using [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys), designed for both personal and group interactions. The bot is modular, versatile, and easy to customize, offering an extensive set of features.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Interactive Messages**: Dynamic carousels, buttons, and view-once messages.
 - **Custom Commands**: A wide variety of preloaded commands for utilities, entertainment, and more.
 - **Multimedia Handling**: Supports images, videos, stickers, and documents.
@@ -14,7 +14,7 @@ Nahida-MD is a WhatsApp bot built using [@whiskeysockets/baileys](https://github
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 Before you begin, ensure you have the following installed:
@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 📄 Usage
+## Usage
 
 ### Commands
 - Use the prefix `.` (default) followed by a command name to interact with the bot.
@@ -83,25 +83,26 @@ Contributions are welcome! Whether you want to report bugs, suggest new features
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## Author
 **Helo-Koshirou**
 - GitHub: [@Helo-Koshirou](https://github.com/Helo-Koshirou)
-- Email: helo.koshirou@example.com
+- Youtube: [Dingdev Koshirou]()
+- Email: ffpure983@gmail.com
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 - Special thanks to [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) for the powerful library.
 - Inspired by the open-source community and developers worldwide.
 
 ---
 
-## 🧰 Troubleshooting
+## Troubleshooting
 If you face any issues, follow these steps:
 1. Verify all dependencies are correctly installed.
 2. Ensure your Node.js version is v16 or higher.
@@ -112,5 +113,3 @@ If you face any issues, follow these steps:
 4. Open an issue in the [GitHub repository](https://github.com/Helo-Koshirou/Nahida-MD/issues) if the problem persists.
 
 ---
-
-### Koshirou dev
