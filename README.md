@@ -62,7 +62,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Whether you want to report bugs, suggest new features, or improve the codebase, feel free to participate.
 
 ### How to Contribute
